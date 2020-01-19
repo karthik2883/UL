@@ -87,8 +87,6 @@ function MSG(topic, message){
         break;
         case "channel/merchant":
         break;
-        case "channel/blockchain":
-        break;
         default:
             console.log(topic, message);
         break;
